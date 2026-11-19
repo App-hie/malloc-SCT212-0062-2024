@@ -1,0 +1,12 @@
+*.o
+test_myalloc
+test_policy
+test_task7
+test_calloc
+test_realloc
+test_task3
+test_task4
+test_task5
+test_task6
+bench
+core
